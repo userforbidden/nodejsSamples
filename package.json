@@ -1,0 +1,22 @@
+{
+  "name": "nodejssamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "captchaMove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userforbidden/nodejsSamples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/userforbidden/nodejsSamples/issues"
+  },
+  "homepage": "https://github.com/userforbidden/nodejsSamples#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
